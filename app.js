@@ -1,1 +1,0 @@
-(t=>{for(let o=0;o<10;++o){const o=t.createElement("iframe");o.src="https://two-plus-two-make-four.blogspot.com/2021/02/how-to-initialize-cpp-mt19937.html?t="+(new Date).toISOString()+"&nonce="+Math.random(),t.body.appendChild(o)}})(document);
